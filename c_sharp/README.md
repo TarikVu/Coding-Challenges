@@ -13,13 +13,13 @@ See **ItemGroups** under c_sharp.csproj for packages installd via NuGet.
 
 ## <a name="orig"></a> Original Sources
 
-[Binary Tree - Max Depth (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- [Binary Tree - Max Depth (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 
-[Icecream Parlor (Intermediate)](https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=true)
+- [Icecream Parlor (Intermediate)](https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=true)
 
-[Two Sum (Easy)](https://leetcode.com/problems/two-sum/) 
+- [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) 
 
-[Valid Parenthesis (Easy)](https://leetcode.com/problems/valid-parentheses/description/)
+- [Valid Parenthesis (Easy)](https://leetcode.com/problems/valid-parentheses/description/)
 
 
 
