@@ -15,9 +15,12 @@ See **ItemGroups** under c_sharp.csproj for packages installd via NuGet.
 
 [Binary Tree - Max Depth (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 
+[Icecream Parlor (Intermediate)](https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=true)
+
 [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) 
 
 [Valid Parenthesis (Easy)](https://leetcode.com/problems/valid-parentheses/description/)
+
 
 
 ## <a name="refs"></a> References 
