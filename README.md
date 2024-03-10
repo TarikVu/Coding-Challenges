@@ -1,16 +1,6 @@
-# Coding Challenges in various languages
-(Overview)
+# Coding Challenges 
+This is a collection of my coding challenges I have completed on various sites.  All challenges are segmented into the languages I've completed them in.  These challenges are also sited to their original sources accordingly from their respective platforms such as LeetCode or HackerRank. 
 
-## Table of Contents
-1. [Features](#feats)
-9. [References](#ref)
+> [!IMPORTANT]
+> More Detailed information on the challenges are found in each sub-directory.
 
-## <a name="feats"></a> Features
-### secondary headline
-(Description here)
-
-
-## <a name="refs"></a> References 
-
- README formatting
-    - [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
