@@ -31,6 +31,11 @@ See **ItemGroups** under c_sharp.csproj for packages installd via NuGet.
 - dotnet test : Run all Xunit Tests
 - dotnet test --filter _filter_ : Run Unit tests given a filter. **Tests are filtered by their respective challenge**
 
+[Creating the Xunit testing library](https://www.youtube.com/watch?v=04nzwCE_nw0)
+- [Documentation link](https://code.visualstudio.com/docs/csharp/testing)
+- dotnet new xunit -o _library name_
+- dotnet add _location of your test csproj file_ reference _location of the csproj file for project to be tested_
+
 [NuGet Package Manager retreival error fix](https://stackoverflow.com/questions/58108809/versioning-information-could-not-be-retrieved-from-the-nuget-package-repository)
 
 
