@@ -13,7 +13,7 @@ public class IceCreamParlorProblem
     {
         int l = 0;
         int r = 1; 
-        List<int> ans = new List<int>();
+        List<int> ans = [];
         while (r<arr.Count){
                 
                 if (arr[l]+arr[r] == m){

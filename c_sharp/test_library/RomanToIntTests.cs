@@ -26,4 +26,25 @@ public class RomanToIntTests
         Assert.Equal(1994,RomanToIntProblem.RomanToInt(s));
     }
 
+    [Fact, Trait("Category", "RomanToInt")]
+    public void Case4()
+    {
+        string s = "MMMCCXLV";
+        Assert.Equal(3245,RomanToIntProblem.RomanToInt(s));
+    }
+
+    [Fact, Trait("Category", "RomanToInt")]
+    public void Case5()
+    {
+        string s = "MMCMLXXX";
+        Assert.Equal(2980,RomanToIntProblem.RomanToInt(s));
+    }
+
+    [Fact, Trait("Category", "RomanToInt")]
+    public void Case6()
+    {
+        string s = "MMMCD";
+        Assert.Equal(3400,RomanToIntProblem.RomanToInt(s));
+    }
+
 }

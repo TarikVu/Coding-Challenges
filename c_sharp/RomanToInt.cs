@@ -23,7 +23,7 @@ public class RomanToIntProblem
         // Finally just save the chars and their respective values inside a dictionary.
         // Time: O(n), Space: O(1)
 
-        Dictionary<char, int> dict = new Dictionary<char, int>
+        Dictionary<char, int> dict = new()
         {
             { 'I', 1 },
             { 'V', 5 },
