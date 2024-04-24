@@ -17,7 +17,7 @@ See **ItemGroups** under c_sharp.csproj for packages installd via NuGet.
 
 - [Icecream Parlor (Intermediate)](https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=true)
 
-- [Roman to Integer (Easy)][https://leetcode.com/problems/roman-to-integer/description/] 
+- [Roman to Integer (Easy)](https://leetcode.com/problems/roman-to-integer/description/) 
 
 - [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) 
 
