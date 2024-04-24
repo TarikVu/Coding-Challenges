@@ -3,7 +3,7 @@ using System;
 public class RomanToIntProblem
 {
 
-    public int RomanToInt(string s) {
+    public static int RomanToInt(string s) {
     
         // Explanation:
         // Brute force approach
