@@ -1,8 +1,9 @@
 using System;
 
-public class RomanToInt{
+public class RomanToIntProblem
+{
 
-    public int GetInt(string s) {
+    public int RomanToInt(string s) {
     
         // Explanation:
         // Brute force approach
@@ -22,14 +23,16 @@ public class RomanToInt{
         // Finally just save the chars and their respective values inside a dictionary.
         // Time: O(n), Space: O(1)
 
-        Dictionary<char, int> dict = new Dictionary<char,int>();
-        dict.Add('I',1);
-        dict.Add('V',5);
-        dict.Add('X',10);
-        dict.Add('L',50);
-        dict.Add('C',100);
-        dict.Add('D',500);
-        dict.Add('M',1000);
+        Dictionary<char, int> dict = new Dictionary<char, int>
+        {
+            { 'I', 1 },
+            { 'V', 5 },
+            { 'X', 10 },
+            { 'L', 50 },
+            { 'C', 100 },
+            { 'D', 500 },
+            { 'M', 1000 }
+        };
 
         // Replace the subtraction cases:
         s = s.Replace("IV", "IIII");
