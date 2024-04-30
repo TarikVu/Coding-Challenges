@@ -1,8 +1,8 @@
 using System;
 
-public class PlusOneProblem{
-
-    public int[] PlusOne(int[] digits){
+public class PlusOneProblem
+{
+    public static int[] PlusOne(int[] digits){
 
         int idx = digits.Length-1;
         bool addOne = true;

@@ -4,8 +4,6 @@ using Xunit.Sdk;
 
 public class IcecreamParlorTests
 {
-
-
     // Public Tests from source
     [Fact, Trait("Category", "IceCreamParlor")]
     public void Case1()
