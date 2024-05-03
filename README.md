@@ -5,7 +5,7 @@ This is a collection of my coding challenges I have completed on various sites. 
 > [!IMPORTANT]
 > More Detailed information on the challenges are found in each sub-directory.
 
-## My Coding Challenge profiles⬇️
+## My Coding Challenge profile⬇️
 
 [![Static Badge](https://img.shields.io/badge/LeetCode-black?style=flat&logo=LeetCode)
 ](https://leetcode.com/TarikVu/) 
