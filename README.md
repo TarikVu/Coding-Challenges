@@ -7,5 +7,5 @@ This is a collection of my coding challenges I have completed on various sites. 
 
 ## My Coding Challenge profiles⬇️
 
-[![Static Badge](https://img.shields.io/badge/HackerRank-050c18?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/tarikvu2) [![Static Badge](https://img.shields.io/badge/LeetCode-black?style=flat&logo=LeetCode)
+[![Static Badge](https://img.shields.io/badge/LeetCode-black?style=flat&logo=LeetCode)
 ](https://leetcode.com/TarikVu/) 
