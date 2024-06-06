@@ -1,4 +1,5 @@
 # Threaded Timer Application 
+(This was a submission for an internship interview)
 ### Author: [`Tarik Vu`](https://www.linkedin.com/in/tarik-vu-020043210/)
 
 Submission Date: **2:30 pm (MST) 6/6/2024**<br>
