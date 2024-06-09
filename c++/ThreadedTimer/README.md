@@ -2,6 +2,7 @@
 ### Author: [`Tarik Vu`](https://www.linkedin.com/in/tarik-vu-020043210/)
 
 Submission Date: **2:30 pm (MST) 6/6/2024**<br>
+- _This submission was to apply for IMSAR (Hiring manager Thomas)_
 
 
 ```
